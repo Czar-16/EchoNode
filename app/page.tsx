@@ -83,7 +83,7 @@ export default function Home() {
               <p className="mt-4 text-sm text-white text-center">{message}</p>
             )}
 
-            {/* ✅ PREDEFINED SONGS */}
+           
             <div className="w-full mt-6">
               <div className="flex items-center gap-2 mb-3">
                 <div className="flex-1 h-px bg-zinc-800"></div>

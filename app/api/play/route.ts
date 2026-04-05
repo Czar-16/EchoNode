@@ -1,3 +1,5 @@
+
+// Don't forget to do sudo yt-dlp -U
 import { NextResponse } from "next/server";
 
 import { spawn } from "child_process";
