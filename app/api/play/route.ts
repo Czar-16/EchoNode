@@ -18,7 +18,7 @@ export async function POST(req: Request) {
       "-f", // format selection
       "ba[acodec=opus]/ba/best",
       "--no-playlist",
-      `ytsearch1:${title}`, 
+      `ytsearch1:${title}`,
       "-o", // output  to stout
       "-", // don't save the file just stream
     ]);
